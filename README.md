@@ -1,5 +1,5 @@
 # github-quick-ssh-connection
-I often forgot how to connect git and github with ssh, so I made this very short guide
+I often forget how to connect git and github with ssh, so I made this very short guide
 
 # Quick connection to github
 1. Check if folder `~/.ssh` exists. Delete all files in this folder if this folder exists.
